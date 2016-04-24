@@ -2,6 +2,7 @@ h1{
   font-family: century schoolbook;
   font-weight: bold;
   font-size: 72px;
+  text-outline: 5px green;
 }
 img{
   border-color: green;
