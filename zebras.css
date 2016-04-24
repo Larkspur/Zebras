@@ -4,5 +4,6 @@ h1{
   font-size: 72px;
 }
 img{
-  background-image: url(http://freestock.ca/zebra_stripes__eps_vector_sjpg2124.jpg);
+  border-color: green;
+  border-width: 5px;
 }
