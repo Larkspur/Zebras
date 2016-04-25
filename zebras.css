@@ -11,15 +11,8 @@ body{
   margin-bottom: 100px;
   margin-right: 100px;
   margin-left: 100px;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbBncVP2z-rP5zdS-mh6__7tr7VbL3Y9Jbvec_Sc53aITw_ho);
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
 p{
   font-family: century gothic;
   line-height: 1.5;
-  background-color: white;
 }
 
