@@ -28,4 +28,29 @@ ul{
 ul#tabs li{
   display: inline;
   font-family: verdana;
+  padding: 15px 15px;
+  background-color: black;
+  border-radius: 6px 6px 0 0;
+}
+ul#tabs li:hover{
+  border-color: darkorange;
+  border-width: 5px;
+  border-style: solid;
+}
+ul#tabs li a{
+  text-decoration: none;
+  color: forestgreen;
+}
+img#homepage-image{
+  padding: 100px 0;
+}
+a#back-to-top{
+  color: black;
+  background-color: lightgray;
+  font-family: verdana;
+  font-size: 14px;
+  text-decoration: none;
+}
+img#up-arrow{
+  background-color: white;
 }
