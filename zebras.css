@@ -52,5 +52,6 @@ a#back-to-top{
   text-decoration: none;
 }
 img#up-arrow{
-  background-color: white;
+  padding: 3px 5px;
+  background-color: lightgray;
 }
