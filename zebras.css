@@ -47,17 +47,6 @@ ul#tabs li a{
 img#homepage-image{
   padding: 100px 0;
 }
-a#back-to-top{
-  color: black;
-  background-color: lightgray;
-  font-family: verdana;
-  font-size: 14px;
-  text-decoration: none;
-}
-img#up-arrow{
-  padding: 3px 5px;
-  background-color: lightgray;
-}
 ul#tabs li.active{
   background-color: black;
   border-color: black;
