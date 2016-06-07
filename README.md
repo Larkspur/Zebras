@@ -1,2 +1,4 @@
 # Zebras
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zebras are one of those animals that most people have heard of. And for most people, the first thing they think of when they hear the word "zebra" is stripes. The most distinctive feature of zebras (and the first thing you'll probably notice) is, after all, their stripes. But did you know that zebras are not white animals with black stripes, but black animals with white stripes? Maybe not. A website, made by yours truly, dedicated to the zebras of this world (and zebras outside this world, if they exist), can be found [here](https://larkspur.github.io/Zebras/index.html).
+
+I'm stll working on the "Games" page, so right now, if you click on it, it takes you to a game about cats. Yes, _cats_, not zebras. The reason for that is simply because I, sadly and unfortunately, don't know a good game about zebras. But the cat game is pretty fun (and surprisingly hard for some people), so, you know, be patient.
